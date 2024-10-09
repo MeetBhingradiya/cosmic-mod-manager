@@ -19,14 +19,12 @@ const Footer = () => {
 
                     <FooterLink href="https://github.com/CRModders/cosmic-mod-manager">
                         <GithubIcon />
-                        GitHub
                     </FooterLink>
 
                     <DotSeparator />
 
                     <FooterLink href="https://discord.gg/T2pFVHmFpH">
                         <DiscordIcon className="fill-current dark:fill-current" />
-                        Discord
                     </FooterLink>
                 </div>
 
